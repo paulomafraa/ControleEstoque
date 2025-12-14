@@ -1,4 +1,4 @@
-# Controle de Estoque & Precificação
+# Controle de Estoque & Precificação 
 
 ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-green?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET%20Framework-4.8-purple?style=for-the-badge)
